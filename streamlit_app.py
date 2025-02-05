@@ -2,7 +2,6 @@ import streamlit as st
 from streamlit import session_state as state
 
 # Define individual pages for homework 1 and homework 2
-lab5_page = st.Page("LAB5.py", title="Lab 5")
 lab4_page = st.Page("LAB4.py", title="Lab 4")
 lab3_page = st.Page("LAB3.py", title="Lab 3")
 lab2_page = st.Page("LAB2.py", title="Lab 2")
