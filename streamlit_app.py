@@ -8,7 +8,7 @@ lab2_page = st.Page("LAB2.py", title="Lab 2")
 lab1_page = st.Page("LAB1.py", title="Lab 1")
 
 # Initialize navigation with the pages
-pg = st.navigation([lab5_page,lab4_page,lab3_page,lab2_page, lab1_page])
+pg = st.navigation([lab4_page,lab3_page,lab2_page, lab1_page])
 
 # Set page configuration (optional but helps with page title and icon)
 st.set_page_config(page_title="Lab Manager", page_icon=":memo:")
